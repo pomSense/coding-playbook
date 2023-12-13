@@ -7,13 +7,12 @@ A set of assignments to help you learn node.js and TypeScript
 ## Assignment 1 - Local Development Environment & Git
 
 1. Set up Git: Follow [these instructions](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) to setup your SSH keys. This assumes you already have a GitHub account.
-- If you are a beginning, you can start with this [video](https://www.youtube.com/watch?v=8JJ101D3knE&ab_channel=ProgrammingwithMosh)
-- Here are some [basic commands for Git](https://handbook.chaineapp.com/handbook/learning/coding/coding-git-basics)
-
-1. Download VSCode and install
-1. Follow [this setup](https://handbook.chaineapp.com/handbook/engineering/local-setup/)
+  - If you are a beginning, you can start with this [video](https://www.youtube.com/watch?v=8JJ101D3knE&ab_channel=ProgrammingwithMosh)
+  - Here are some [basic commands for Git](https://handbook.chaineapp.com/handbook/learning/coding/coding-git-basics)
+2. Download VSCode and install
+3. Follow [this setup](https://handbook.chaineapp.com/handbook/engineering/local-setup/)
   - Note, if you're using Windows, there may be some steps that are different (i.e Step 2)
-1. Change your VSCode theme. [Instructions are here](https://handbook.chaineapp.com/handbook/engineering/local-setup/vs-code)
+4. Change your VSCode theme. [Instructions are here](https://handbook.chaineapp.com/handbook/engineering/local-setup/vs-code)
 
 
 Important: If you get stuck on any of the steps, use chatGPT or search google. One of the most important skills for any developer is the ability to self-sufficiently figure out how to do something whether via searching google or reading documentation.
