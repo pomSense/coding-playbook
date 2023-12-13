@@ -26,8 +26,6 @@ Important: If you get stuck on any of the steps, use chatGPT or search google. O
 ## Assignment 2 - Learn Javascript
 
 [Codecademy](https://www.codecademy.com/) is what we will use to learn the fundamentals of Javascript and TypeScript.
-The login email is: paramvir.s@gmail.com
-Ask Param for the password.
 
  One of the most important things is the fundamentals. This is why we spend so much time on them. Make sure you really spend the time to understand the fundamentals or your entire learning journey will be impacted. Without a good understanding of the fundamentals, you will struggle in later phases and on your journey.
 
